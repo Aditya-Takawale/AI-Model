@@ -34,9 +34,9 @@ pip3 install -r requirements.txt
 nano .env
 
 # You'll see:
-# GOOGLE_API_KEY=AIzaSyDPMNX0GFFySpAScHYGPhnn1R4V_mvCSfw
+# GOOGLE_API_KEY=your_google_api_key_here
 #
-# Replace the key with YOUR key
+# Replace with YOUR actual key
 # Press Ctrl+X, then Y, then Enter to save
 ```
 

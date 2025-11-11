@@ -34,9 +34,9 @@ pip install -r requirements.txt
 notepad .env
 
 # You'll see:
-# GOOGLE_API_KEY=AIzaSyDPMNX0GFFySpAScHYGPhnn1R4V_mvCSfw
+# GOOGLE_API_KEY=your_google_api_key_here
 #
-# Replace the key with YOUR key
+# Replace with YOUR actual key
 # Press Ctrl+S to save, then close Notepad
 ```
 

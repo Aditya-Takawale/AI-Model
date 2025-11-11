@@ -140,12 +140,12 @@ nano .env
 
 Change:
 ```bash
-GOOGLE_API_KEY=AIzaSyDPMNX0GFFySpAScHYGPhnn1R4V_mvCSfw  # ← Old key (yours)
+GOOGLE_API_KEY=your_google_api_key_here  # ← Placeholder
 ```
 
 To:
 ```bash
-GOOGLE_API_KEY=AIzaSyTheir_New_Key_Here  # ← Their key
+GOOGLE_API_KEY=AIzaSy_paste_actual_key_here  # ← Your key
 ```
 
 Save and exit (Ctrl+X, Y, Enter)
