@@ -54,11 +54,8 @@ api_key = os.getenv("GOOGLE_API_KEY")
 if not api_key:
     print("   ❌ GOOGLE_API_KEY not set in .env file")
     sys.exit(1)
-elif api_key == "AIzaSyDPMNX0GFFySpAScHYGPhnn1R4V_mvCSfw":
-    print(f"   ⚠️  Using example API key (you should use your own)")
-    print(f"      Key: {api_key[:20]}...")
 else:
-    print(f"   ✅ API key configured: {api_key[:20]}...")
+    print(f"   ✅ API key configured: {api_key[:10]}...{api_key[-4:]}")
 
 # Test 4: Check test videos
 print("\n4️⃣ Checking test videos...")
